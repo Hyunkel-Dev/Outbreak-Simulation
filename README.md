@@ -14,6 +14,6 @@
 
 ## Example
 
-![image](https://user-images.githubusercontent.com/66129931/169608344-4306a304-a845-4f8b-9b6a-c21962a75a12.png)
+![image](https://user-images.githubusercontent.com/66129931/169608487-b54db17b-084f-4710-b505-10ed68118971.png)
 
 ![image](https://user-images.githubusercontent.com/66129931/169608227-86bf3153-1724-4e7d-8078-3a8a73e3bdc0.png)
